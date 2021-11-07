@@ -1,0 +1,1 @@
+An OR function for an ADALINE neuron.
